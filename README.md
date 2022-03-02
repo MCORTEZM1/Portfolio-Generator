@@ -10,3 +10,5 @@ The webpage UI is clean and stylized without any user input- so you can focus on
 
 Please download the code {and it's dependencies} and run the application using `node app.js` in the command line!
 
+![GeneratedPage](./README-IMGs/PortfolGEn.png "title")
+![GeneratedPage](./README-IMGs/PortGen2.png "title")
